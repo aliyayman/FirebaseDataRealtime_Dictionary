@@ -1,0 +1,127 @@
+{
+  "project_info": {
+    "project_number": "404365112047",
+    "firebase_url": "https://veritabanim-9281b-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "veritabanim-9281b",
+    "storage_bucket": "veritabanim-9281b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404365112047:android:4651ea0be1cd62de0de11a",
+        "android_client_info": {
+          "package_name": "com.aliyayman.deneme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404365112047-52c5n40p4p1hrsdv8f6i777u4u10qn1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrKes9CWdcqRG1Y9mDXDuK1rdHPLVP8Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404365112047-52c5n40p4p1hrsdv8f6i777u4u10qn1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404365112047:android:c58146651b876ffe0de11a",
+        "android_client_info": {
+          "package_name": "com.aliyayman.firebasecalismasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404365112047-52c5n40p4p1hrsdv8f6i777u4u10qn1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrKes9CWdcqRG1Y9mDXDuK1rdHPLVP8Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404365112047-52c5n40p4p1hrsdv8f6i777u4u10qn1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404365112047:android:1ae2aa2ca9e08e640de11a",
+        "android_client_info": {
+          "package_name": "com.aliyayman.firebasesozluk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404365112047-52c5n40p4p1hrsdv8f6i777u4u10qn1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrKes9CWdcqRG1Y9mDXDuK1rdHPLVP8Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404365112047-52c5n40p4p1hrsdv8f6i777u4u10qn1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404365112047:android:9b9f1ed1917eae900de11a",
+        "android_client_info": {
+          "package_name": "com.aliyayman.sozlukuygulamasi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404365112047-52c5n40p4p1hrsdv8f6i777u4u10qn1n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrKes9CWdcqRG1Y9mDXDuK1rdHPLVP8Bk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404365112047-52c5n40p4p1hrsdv8f6i777u4u10qn1n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
